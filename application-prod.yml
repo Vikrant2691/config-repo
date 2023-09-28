@@ -8,4 +8,4 @@ server:
       min-spare: 5
 
 service:
-  greeting: Hello from DEV
+  greeting: Hello from PROD
